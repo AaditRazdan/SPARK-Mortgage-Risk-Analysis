@@ -1,4 +1,3 @@
-# SPARK-mortgage-risk
 # Research Abstract - Analyzing Loan Default Risk
 
 Loan defaults create major risks for both lenders and borrowers, making precise risk prediction vital for responsible lending. This project demonstrates how machine learning can guide more personalized lending choices and how feature-level insights can help both parties lower their financial risk.
